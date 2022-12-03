@@ -1,0 +1,28 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #a68d60;
+}
+
+input{
+    padding: 5px;
+    color: #000;
+}
+
+button{
+    display: block;
+    margin-top: 10px;
+    width: 100px;
+    font-weight: 600;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#btn-send{
+    background-color: #F2CA52;
+    color: #000;
+}
+
+#btn-clear{
+    background-color: #400937;
+    color: white;
+}
